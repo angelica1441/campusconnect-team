@@ -15,14 +15,16 @@ CampusConnect is a simple campus event finder platform that helps students find 
 
 ## 3. How to Use
 
+## 3. How to Use
+
 1. Open the CampusConnect platform.
-2. Browse the available school events.
+2. Browse the available campus events.
 3. Search for an event you are interested in.
-4. Click the event to see its details.
-5. Check the date, time, and location.
+4. Click an event to view its details.
+5. Check the event date, time, and location.
 6. Log in or create an account if needed.
 7. Register for your chosen event.
-8. Check your registered events for updates.
+8. Check your registered events.
 
 ## 4. Team Members
 
