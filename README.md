@@ -4,14 +4,13 @@
 
 CampusConnect is a simple campus event finder platform that helps students find out about different events happening in their school. Through this platform, students can easily check upcoming seminars, workshops, competitions, and other school activities. It aims to make it easier for students to stay updated and not miss important campus events.
 
-## 2. Features
-
-- **View Events** – Students can see the list of upcoming school events.
-- **Search Events** – Students can search for events they are interested in.
-- **Event Categories** – Events are organized into categories like seminars, workshops, and competitions.
-- **Event Details** – Students can check the event description, date, time, and location.
-- **Event Registration** – Students can register for events they want to attend.
-- **Event Updates** – Students can stay updated about upcoming school activities.
+2. Features
+View Events – Students can see the list of upcoming school events.
+Search Events – Students can search for events they are interested in.
+Event Categories – Events are organized into categories like seminars, workshops, and competitions.
+Event Details – Students can check the event description, date, time, and location.
+Event Registration – Students can register for events they want to attend.
+Event Updates – Students can stay updated about upcoming school activities.
 
 ## 3. How to Use
 
