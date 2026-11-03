@@ -15,8 +15,6 @@ CampusConnect is a simple campus event finder platform that helps students find 
 
 ## 3. How to Use
 
-## 3. How to Use
-
 1. Open the CampusConnect platform.
 2. Browse the available campus events.
 3. Search for an event you are interested in.
