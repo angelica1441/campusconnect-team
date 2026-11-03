@@ -1,7 +1,6 @@
 # CampusConnect – Campus Event Finder
 
-## 1. Project Overview
-
+1. Project Overview
 CampusConnect is a simple campus event finder platform that helps students find out about different events happening in their school. Through this platform, students can easily check upcoming seminars, workshops, competitions, and other school activities. It aims to make it easier for students to stay updated and not miss important campus events.
 
 2. Features
